@@ -1,0 +1,195 @@
+BGMSmpl     Library                                                         Sample
+-------------------------------------------------------------------------------------------------------------------
+A2_00000    Rarefaction: A Poke in the Ear with a Sharp Stick Volume I      appalacianKlungoMat
+A2_00001    Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     circular3
+A2_00002    Zero-G: Ambient Volume 2                                        Track 01 (sample 3, about 6 seconds in)
+A2_00003    Zero-G: Ambient Volume 2                                        Track 18 (sample 1)
+A2_00004
+A2_00005    Big Fish Audio: Titanium Rhythms                                Track 08 (sample 3, right channel)
+A2_00006    Big Fish Audio: Titanium Rhythms                                Track 11 (sample 1, left channel)
+B2_00000    Mellotron Archives: Mellotron                                   G2 VIBES
+B2_00001    Mellotron Archives: Mellotron                                   B1 TRON FLUT (about 1.8 seconds in)
+B2_00002
+B2_00003
+B2_00004
+B2_00005
+B2_00006
+B_00000
+B_00001
+B_00002
+B_00003
+B_00004     Rarefaction: A Poke in the Ear with a Sharp Stick Volume III    AMB MACH (?)
+B_00005     Sounds Good: Methods of Mayhem                                  Track 55 (sample 6)
+B_00006     Sounds Good: Methods of Mayhem                                  Track 45 (sample 7)
+B_00007     Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     Deep MIDI c1
+B_00008     Rarefaction: A Poke in the Ear with a Sharp Stick Volume III    TINES
+C2_00000    Zero-G: Ambient Volume 2                                        DRONE 2
+C2_00001
+C2_00002    Best Service: Peter Siedlaczeks Classical Choirs                CLUSTER 6 / Track 56 (sample 3)
+C2_00003
+C2_00004    Zero-G: Ambient Volume 2                                        SHORT WAVE
+C2_00005    Big Fish Audio: Titanium Rhythms                                Track 25 (sample 9, right channel)
+C_00000     Best Service: XX-Large 1500 Classic Drumloops                   L 085 013
+C_00001
+C_00002
+C_00003     Sounds Good: On the Jazz Tip                                    Track 05 (sample 1)
+C_00004     Zero-G: Cuckooland Unhinged                                     GUITAR + W
+C_00005     Rarefaction: A Poke in the Ear with a Sharp Stick Volume III    TONK LOOP 95 BPM
+C_00006
+C_00007
+C_00008
+C_00009
+C_00010
+C_00011
+D2_00000
+D_00000     Zero-G: Ambient Volume 2                                        DRONE 3
+D_00001     Back in Time Records: Mediterranean Atmosphere                  ANGELDUST2
+D_00002
+E2_00000    Zero-G: Ambient Volume 2                                        METALDRONE 3
+E2_00001    Big Fish Audio: Titanium Rhythms                                Track 44 (sample 2, right channel)
+E2_00002
+E_00000
+E_00001
+E_00002     Mellotron Archives: Mellotron                                   G1 GUITAR
+E_00003     
+E_00004     Sonic Foundry: Ambient Grooves                                  Ambient FX 08-07
+F2_00000    Big Fish Audio: Titanium Rhythms                                Track 08 (sample 3, right channel)
+F2_00001    Big Fish Audio: Titanium Rhythms                                Track 25 (sample 4)
+F2_00002    Big Fish Audio: Titanium Rhythms                                Track 30 (sample 4, left channel)
+F2_00003
+F2_00004
+F2_00005
+F2_00006
+F_00000     Zero-G: Ambient Volume 2                                        NOISES1
+F_00001
+F_00002     Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     dark strike g1
+F_00003
+G2_00000    Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     circular3
+G2_00001    Zero-G: Ambient Volume 2                                        DRONEMID
+G2_00002    Zero-G: Ambient Volume 2                                        Track 18 (sample 5)
+G2_00003    Zero-G: Ambient Volume 2                                        LOW BELLS
+G_00000
+G_00001     AMG: Underfire                                                  Track 38 (sample 7)
+G_00002     Best Service: Peter Siedlaczeks Classical Choirs                CLUSTER 6 / Track 56 (sample 3)
+G_00003     Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     bounce4 (?)
+G_00004     Rarefaction: A Poke in the Ear with a Sharp Stick Volume III    PERTURBING LOOP 1
+G_00005
+H2_00000
+H2_00001
+H_00000     Rarefaction: A Poke in the Ear with a Sharp Stick Volume I      Flyboy
+H_00001     Zero-G: Malice in Wonderland                                    61.1FLUTE1
+H_00002     Zero-G: Ambient Volume 2                                        REV C3
+I_00000     Spectrasonics: Distorted Reality                                CRIKCHOIR1
+I_00001     Rarefaction: A Poke in the Ear with a Sharp Stick Volume III    ANVIL TO HEAD
+I_00002     Rarefaction: A Poke in the Ear with a Sharp Stick Volume I      HeavyOilDrum
+I_00003     Zero-G: Malice in Wonderland                                    62.1PLUCK
+I_00004
+I_00005     Zero-G: Ambient Volume 2                                        MUTANTBELL
+J2_00000    Zero-G: Ambient Volume 2                                        MYST GLASS
+J2_00001    Zero-G: Ambient Volume 2                                        LOW BELLS
+J2_00002
+J2_00003    Big Fish Audio: Titanium Rhythms                                Track 61 (sample 4, left channel)
+J2_00004    Big Fish Audio: Titanium Rhythms                                Track 04 (sample 3, left channel)
+J2_00005    Zero-G: Ambient Volume 2                                        METALDRONE 3 / Track 35 (sample 3) (?)
+J_00000     Zero-G: Ambient Volume 2                                        UNDERSEA1
+J_00001     Zero-G: Ambient Volume 2                                        2001 C
+J_00002     Big Fish Audio: Titanium Rhythms                                Track 08 (sample 3, left channel)
+J_00003     Big Fish Audio: Titanium Rhythms                                Track 02 (sample 3, left channel)
+J_00004     Big Fish Audio: Titanium Rhythms                                Track 02 (sample 8, right channel)
+K2_00000
+K2_00001    Rarefaction: A Poke in the Ear with a Sharp Stick Volume I      appalacianKlungoMat
+K2_00002    Zero-G: Ambient Volume 2                                        Track 01 (sample 3, about 6 seconds in)
+K2_00003    Big Fish Audio: Titanium Rhythms                                Track 04 (sample 5, left channel)
+K2_00004    Big Fish Audio: Titanium Rhythms                                Track 04 (sample 11, left channel)
+K2_00005    Big Fish Audio: Titanium Rhythms                                Track 11 (sample 6, right channel)
+K2_00006
+K_00000     Zero-G: Ambient Volume 2                                        MYSTERYDR1
+K_00001     Zero-G: Ambient Volume 2                                        MONOLITH
+K_00002     Zero-G: Ambient Volume 2                                        2001 C
+L_00000     Zero-G: Ambient Volume 2                                        METALDRONE 3
+L_00001
+L_00002
+L_00003     Zero-G: Ambient Volume 2                                        BOOM
+M_00000     Zero-G: Ambient Volume 2                                        METALDRONE 2
+M_00001     Zero-G: Ambient Volume 2                                        DRONE 1
+M_00002     Big Fish Audio: Titanium Rhythms                                Track 47 (sample 9, left channel)
+M_00003     Big Fish Audio: Titanium Rhythms                                Track 02 (sample 7, right channel)
+N_00000     Zero-G: Ambient Volume 2                                        GLASSLOOP3
+N_00001
+N_00002
+N_00003
+N_00004
+O_00000     Zero-G: Ambient Volume 2                                        GLASSLOOP2
+O_00001     Zero-G: Ambient Volume 2                                        UNDERSEA2
+O_00002     Zero-G: Ambient Volume 2                                        WNOISEVOX
+P_00000     AMG: Underfire                                                  Track 60
+P_00001     Spectrasonics: Distorted Reality                                CRIKCHOIR1
+P_00002     Zero-G: Malice in Wonderland                                    62.1PLUCK
+Q_00000
+Q_00001
+Q_00002     Zero-G: Ambient Volume 2                                        METALDRONE 1
+Q_00003
+R_00000     AMG: Underfire                                                  Track 60
+S_00000     Zero-G: Ambient Volume 2                                        METALDRONE 1
+S_00001     Zero-G: Ambient Volume 2                                        DRONE 1
+S_00002
+S_00003
+S_00004     Zero-G: Ambient Volume 2                                        METALDRONE 3
+T2_00000    Big Fish Audio: Titanium Rhythms                                Track 24 (sample 7, left channel)
+T2_00001    Big Fish Audio: Titanium Rhythms                                Track 08 (sample 3, right channel)
+T2_00002
+T2_00003
+T2_00004    Zero-G: Ambient Volume 2                                        Track 03 (sample 2)
+T_00000     Big Fish Audio: Titanium Rhythms                                Track 24 (sample 7, left channel)
+T_00001     Big Fish Audio: Titanium Rhythms                                Track 08 (sample 3, right channel)
+T_00002
+T_00003
+T_00004     Zero-G: Ambient Volume 2                                        Track 03 (sample 2)
+U_00000     Sonic Foundry: Ambient Grooves                                  Ambient FX 08-07
+U_00001     Zero-G: Ambient Volume 2                                        WNOISEVOX
+U_00002     Zero-G: Ambient Volume 2                                        Track 18 (sample 5)
+UFO_00000
+UFO_00000
+UFO_00000
+V_00000
+V_00001
+V_00002
+V_00003
+W2_00000    Zero-G: Ambient Volume 2                                        DRONEMID
+W2_00001
+W2_00002    Zero-G: Ambient Volume 2                                        MYST GLASS
+W2_00003    Zero-G: Ambient Volume 2                                        Track 01 (sample 3, about 6 seconds in)
+W2_00004    Big Fish Audio: Titanium Rhythms                                Track 15 (sample 8, right channel)
+X_00000     Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     Deep MIDI c1
+X_00001     Mellotron Archives: Mellotron                                   B1 TRON FLUT (about 1.8 seconds in)
+X_00002
+X_00003
+X_00004
+Y_00000     Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     Deep MIDI c1
+Y_00001     Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     electroglurp
+Y_00002     Big Fish Audio: Titanium Rhythms                                Track 36 (sample 2, left channel)
+Y_00003     Zero-G: Ambient Volume 2                                        ECHOBREATH
+Y_00004
+Z2_00000    Zero-G: Ambient Volume 1                                        Track 14 (sample 3) (?)
+Z2_00001
+Z2_00002    Zero-G: Ambient Volume 2                                        DRONE 1
+Z2_00003    Zero-G: Ambient Volume 2                                        BELLARPS2
+Z3_00000
+Z3_00001
+Z3_00002    Zero-G: Ambient Volume 2                                        UNDERSEA2
+Z3_00003    Zero-G: Ambient Volume 2                                        AQUAPHONE
+Z3_00004    Zero-G: Ambient Volume 2                                        METALWAVE
+Z4_00000    Best Service: Peter Siedlaczeks Classical Choirs                CLUSTER 6 / Track 56 (sample 3)
+Z4_00001
+Z4_00002    Zero-G: Ambient Volume 2                                        SHORT WAVE
+Z4_00003    Big Fish Audio: Titanium Rhythms                                Track 53 (sample 2, left channel)
+Z4_00004
+Z4_00005    Big Fish Audio: Titanium Rhythms                                Track 08 (sample 3, right channel)
+Z4_00006
+Z4_00007    Sound Ideas: Series 6000                                        EXPLOSION, MEDIUM
+Z4_00008
+Z_00000     Zero-G: Ambient Volume 2                                        METALBRETH
+Z_00001     Zero-G: Ambient Volume 2                                        STEREO3WIN
+Z_00002
+Z_00003     Zero-G: Ambient Volume 2                                        PHASETRAIN
+Z_00004     Big Fish Audio: Titanium Rhythms                                Track 30 (sample 1, left channel)

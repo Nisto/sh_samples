@@ -1,0 +1,436 @@
+Sound ID     Sample ##      Library                                                  Sample
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BGM 50000    00
+BGM 50000    01             Things That Go Bump in the Night                         CD2, Track 35, sample 1
+BGM 50000    02
+BGM 50000    03             Twisted Reality                                          Fear15_s
+
+BGM 50001    00             Skinned                                                  01 Horror Movie Part 1 (sample 3)
+BGM 50001    01             Skinned                                                  01 Horror Movie Part 1 (sample 6)
+BGM 50001    02             Cuckooland Asylum                                        Track 01, sample 3
+BGM 50001    03             Skinned                                                  03 Horror Movie Part 3 (sample 1)
+BGM 50001    04             Twisted Reality                                          Fear15_s
+BGM 50001    05             Power Surge                                              CD2, Track 20
+BGM 50001    06             Cuckooland Asylum                                        Track 45, sample 4
+BGM 50001    07             Skinned                                                  67 Nukem 7 (sample 12)
+BGM 50001    08             A Poke in the Ear with a Sharp Stick Volume II           Chorus Cuff
+BGM 50001    09             A Poke in the Ear with a Sharp Stick Volume III          Herit
+BGM 50001    10
+BGM 50001    11             Titanium Rhythms                                         Track 40, sample 7
+BGM 50001    12
+
+BGM 50002    00             A Poke in the Ear with a Sharp Stick Volume II           Blown Low
+BGM 50002    01             A Poke in the Ear with a Sharp Stick Volume II           Blown Low
+BGM 50002    02             Power Surge                                              CD2, Track 52
+BGM 50002    03             A Poke in the Ear with a Sharp Stick Volume III          Fire Scan 4
+
+BGM 50003    00
+BGM 50003    01
+BGM 50003    02
+BGM 50003    03
+BGM 50003    04             Jungle Warfare 3                                         Wah Pad
+BGM 50003    05             SoundScan 13 - Ethereal Atmospheres                      COMPOSITE2
+BGM 50003    06             Vinylistics                                              Track 83
+BGM 50003    07
+BGM 50003    08
+BGM 50003    09
+BGM 50003    10
+
+BGM 50004    00             The Mellotron Archives CD-ROM                            A1GUITAR
+BGM 50004    01             The Mellotron Archives CD-ROM                            A2GUITAR
+BGM 50004    02             The Mellotron Archives CD-ROM                            A3GUITAR
+BGM 50004    03             Ruff Cutz                                                Track 55, sample 9
+BGM 50004    04             Cuckooland Unhinged                                      STRINGCHOR
+BGM 50004    05             260dB                                                    Music FX 424
+BGM 50004    06
+BGM 50004    07             Wall of Vinyl 2                                          Track 72 (sample 2)
+
+BGM 50005    00             Skinned                                                  01 Horror Movie Part 1 (sample 3)
+BGM 50005    01             Skinned                                                  01 Horror Movie Part 1 (sample 6)
+BGM 50005    02             Cuckooland Asylum                                        Track 01, sample 3
+BGM 50005    03             Skinned                                                  03 Horror Movie Part 3 (sample 1)
+BGM 50005    04             Twisted Reality                                          Fear15_s
+BGM 50005    05             Power Surge                                              CD2, Track 20
+BGM 50005    06             Cuckooland Asylum                                        Track 45, sample 4
+BGM 50005    07             Skinned                                                  67 Nukem 7 (sample 12)
+BGM 50005    08             A Poke in the Ear with a Sharp Stick Volume II           Chorus Cuff
+BGM 50005    09             A Poke in the Ear with a Sharp Stick Volume III          Herit
+BGM 50005    10
+BGM 50005    11             Titanium Rhythms                                         Track 40, sample 7
+BGM 50005    12
+
+BGM 50006    00             Distorted Reality                                        BIG BOOM
+BGM 50006    01             POD                                                      Destabilized Elements 1
+BGM 50006    02
+
+BGM 50007    00             Skinned                                                  01 Horror Movie Part 1 (sample 3)
+BGM 50007    01             Skinned                                                  01 Horror Movie Part 1 (sample 6)
+BGM 50007    02             Cuckooland Asylum                                        Track 01, sample 3
+BGM 50007    03             Skinned                                                  03 Horror Movie Part 3 (sample 1)
+BGM 50007    04             Twisted Reality                                          Fear15_s
+BGM 50007    05             Power Surge                                              CD2, Track 20
+BGM 50007    06             Cuckooland Asylum                                        Track 45, sample 4
+BGM 50007    07             Skinned                                                  67 Nukem 7 (sample 12)
+BGM 50007    08             A Poke in the Ear with a Sharp Stick Volume II           Chorus Cuff
+BGM 50007    09             A Poke in the Ear with a Sharp Stick Volume III          Herit
+BGM 50007    10
+BGM 50007    11             Titanium Rhythms                                         Track 40, sample 7
+BGM 50007    12
+
+BGM 50008    00
+BGM 50008    01
+BGM 50008    02
+BGM 50008    03
+BGM 50008    04
+BGM 50008    05             Vinylistics                                              Track 89 (sample 6)
+BGM 50008    06             The Mellotron Archives CD-ROM                            B1 VIBES
+BGM 50008    07             The Mellotron Archives CD-ROM                            B2 VIBES
+BGM 50008    08             The Mellotron Archives CD-ROM                            B3 VIBES
+BGM 50008    09
+BGM 50008    10
+BGM 50008    11
+BGM 50008    12
+BGM 50008    13             The Vinyl Frontier                                       Track 09
+
+BGM 50009    00             Bizarre Guitar                                           SLEEPCYCL3 (~9.914 - ~11.268)
+BGM 50009    01
+BGM 50009    02
+
+BGM 50010    00             Cuckooland Asylum                                        Track 01, sample 9
+BGM 50010    01             A Poke in the Ear with a Sharp Stick Volume II           Low Cycle
+BGM 50010    02             A Poke in the Ear with a Sharp Stick Volume II           Low Cycle
+
+BGM 50011    00
+BGM 50011    01
+BGM 50011    02
+BGM 50011    03
+BGM 50011    04
+BGM 50011    05
+BGM 50011    06
+BGM 50011    07
+BGM 50011    08
+BGM 50011    09
+BGM 50011    10
+
+BGM 50012    00
+BGM 50012    01
+BGM 50012    02
+BGM 50012    03
+BGM 50012    04
+BGM 50012    05
+BGM 50012    06
+BGM 50012    07
+BGM 50012    08
+BGM 50012    09
+BGM 50012    10
+BGM 50012    11
+BGM 50012    12
+BGM 50012    13
+BGM 50012    14
+
+BGM 50013    00
+BGM 50013    01
+BGM 50013    02
+BGM 50013    03
+BGM 50013    04
+BGM 50013    05
+BGM 50013    06             260dB                                                    Atmos 12
+BGM 50013    07
+BGM 50013    08
+BGM 50013    09
+BGM 50013    10
+BGM 50013    11
+BGM 50013    12
+BGM 50013    13             The Mellotron Archives CD-ROM                            B1 VIBES
+BGM 50013    14             The Mellotron Archives CD-ROM                            B2 VIBES
+BGM 50013    15             The Mellotron Archives CD-ROM                            B3 VIBES
+
+BGM 50014    00 (1)         Titanium Rhythms 2                                       Track 74, sample 5
+BGM 50014    00 (2)         Titanium Rhythms 2                                       Track 74, sample 7
+BGM 50014    01
+BGM 50014    02
+BGM 50014    03
+BGM 50014    04 (1)         Total Control Action Cutz                                METL SCR04 (left channel)
+BGM 50014    04 (2)         Total Control Action Cutz                                METL SCR05 (left channel)
+BGM 50014    05 (1)         Total Control Action Cutz                                METL SCR04 (right channel)
+BGM 50014    05 (2)         Total Control Action Cutz                                METL SCR05 (right channel)
+
+BGM 50015    00             Distorted Reality                                        BIG BOOM
+BGM 50015    01
+BGM 50015    02             Skinned                                                  01 Horror Movie Part 1 (sample 1)
+BGM 50015    03
+BGM 50015    04             Skinned                                                  01 Horror Movie Part 1 (sample 6)
+BGM 50015    05             Twisted Reality                                          Fear15_s
+
+BGM 50016    00
+BGM 50016    01
+BGM 50016    02
+BGM 50016    03
+BGM 50016    04
+BGM 50016    05
+BGM 50016    06             Bizarre Guitar                                           GEISHA
+BGM 50016    07
+
+BGM 50017    00             Distorted Reality 2                                      DAYBREAK
+BGM 50017    01             Vinylistics                                              Track 18
+BGM 50017    02             Distorted Reality 2                                      ALOFT HI                                                 (?)
+BGM 50017    03
+BGM 50017    04             Vinylistics                                              Track 41 (last sample)                                   unused sample
+
+BGM 50018    00 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50018    00 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50018    01             Titanium Rhythms                                         Track 14, sample 5
+BGM 50018    02 (1)         Titanium Rhythms                                         Track 08, sample 6
+BGM 50018    03             Titanium Rhythms                                         Track 11, sample 1
+BGM 50018    04             Cuckooland Asylum                                        Track 01, sample 9
+BGM 50018    05             Sci-Fi Series 8000                                       CD2, Track 15
+BGM 50018    06             260dB                                                    Analog FX 01
+
+BGM 50019    00             Distorted Reality                                        SANCTUS
+BGM 50019    01             Distorted Reality                                        SANCTUS
+BGM 50019    02             Cuckooland Ghost in the Machine                          134 Chinese Crisis-A#
+BGM 50019    03             Cuckooland Ghost in the Machine                          Is that the Door-G#3
+BGM 50019    04
+BGM 50019    05
+BGM 50019    06
+BGM 50019    07
+BGM 50019    08
+BGM 50019    09
+BGM 50019    10
+BGM 50019    11
+BGM 50019    12
+
+BGM 50020    00
+BGM 50020    01
+BGM 50020    02
+BGM 50020    03
+BGM 50020    04
+BGM 50020    05
+
+BGM 50021    00             Twisted City                                             Track 38 (sample 3, halfway in)
+BGM 50021    01
+BGM 50021    02
+BGM 50021    03
+BGM 50021    04
+BGM 50021    05
+
+BGM 50022    00
+BGM 50022    01
+BGM 50022    02
+BGM 50022    03
+BGM 50022    04
+BGM 50022    05
+
+BGM 50100    00             Twisted Reality                                          Fear15_s
+BGM 50100    01             A Poke in the Ear with a Sharp Stick Volume II           spast2
+BGM 50100    02
+BGM 50100    03
+BGM 50100    04             POD                                                      Destabilized Elements 1
+BGM 50100    05
+BGM 50100    06             Skinned                                                  01 Horror Movie Part 1 (sample 1)
+
+BGM 50101    00             Titanium Rhythms                                         Track 11, sample 6 (right channel)
+BGM 50101    01             Titanium Rhythms                                         Track 25, sample 4
+BGM 50101    02
+BGM 50101    03             A Poke in the Ear with a Sharp Stick Volume I            wing 4
+BGM 50101    04             Ambient Volume 2                                         BOWCYMBAL 1
+BGM 50101    05
+BGM 50101    06             Things That Go Bump in the Night                         CD2, Track 65, sample 1
+
+BGM 50102    00             Twisted Reality                                          Fear15_s                                                 unused
+BGM 50102    01             A Poke in the Ear with a Sharp Stick Volume II           Chorus Cuff
+BGM 50102    02             Cuckooland Asylum                                        Track 01, sample 9
+BGM 50102    03             Ambient Volume 1                                         Track 07, sample 3
+BGM 50102    04             Maximum Impact                                           Track 03, sample 4
+BGM 50102    05             Distorted Reality                                        BIG BOOM
+
+BGM 50103    00
+BGM 50103    01
+BGM 50103    02
+BGM 50103    03             Skinned                                                  01 Horror Movie Part 1 (sample 1)
+BGM 50103    04
+BGM 50103    05             Cuckooland Asylum                                        Track 62, sample 3
+
+BGM 50104    00
+BGM 50104    01             A Poke in the Ear with a Sharp Stick Volume I            Kettlex Loop
+BGM 50104    02             Ghost in the Machine                                     Stigmata-D3
+BGM 50104    03             Ghost in the Machine                                     118 Zammo-F#
+BGM 50104    04             Methods of Mayhem                                        Track 55 (sample 6)
+BGM 50104    05             Fields of Motion                                         LOOP 4
+
+BGM 50105    00             Things that Go Bump in the Night                         PURRINGPLU
+BGM 50105    01             Distorted Reality                                        BIG BOOM
+BGM 50105    02             A Poke in the Ear with a Sharp Stick Volume I            wing 4
+BGM 50105    03             Ambient Volume 2                                         SFDRONE 4                                                (?)
+BGM 50105    04
+BGM 50105    05
+BGM 50105    06             Twisted Reality                                          Image06_s
+BGM 50105    07             Cuckooland Asylum                                        Track 33, sample 6
+
+BGM 50106    00             Bizarre Guitar                                           SHUDD
+BGM 50106    01             Titanium Rhythms                                         Track 11, sample 13
+BGM 50106    02             Skinned                                                  03 Horror Movie Part 3 (sample 1)
+BGM 50106    03
+
+BGM 50107    00
+BGM 50107    01             Skinned                                                  06 Murder Mystery Part 3 (sample 8)
+BGM 50107    02
+BGM 50107    03             Ambient Volume 1                                         Track 35, sample 2
+BGM 50107    04
+BGM 50107    05             Distorted Reality 2                                      WATERTANKA
+
+BGM 50108    00             Cuckooland Ghost in the Machine                          Witch Doctor-D#2
+BGM 50108    01             Distorted Reality 2                                      BREAKIN UP
+BGM 50108    02             Methods of Mayhem                                        Track 88 (sample 3)
+BGM 50108    03
+BGM 50108    04 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50108    04 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50108    05 (1)         Titanium Rhythms                                         Track 30, sample 1 (left channel)
+BGM 50108    05 (2)         Titanium Rhythms                                         Track 34, sample 9
+
+BGM 50109    00 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50109    00 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50109    01             Titanium Rhythms                                         Track 14, sample 5
+BGM 50109    02             Titanium Rhythms                                         Track 08, sample 6
+BGM 50109    03             Titanium Rhythms                                         Track 11, sample 1
+BGM 50109    04             Cuckooland Asylum                                        Track 01, sample 9
+BGM 50109    05             Sci-Fi Series 8000                                       CD2, Track 15
+BGM 50109    06             260dB                                                    Analog FX 01
+
+BGM 50110    00 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50110    00 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50110    01             Cuckooland Asylum                                        Track 01, sample 9
+BGM 50110    02             A Poke in the Ear with a Sharp Stick Volume I            DeepWell
+BGM 50110    03             A Poke in the Ear with a Sharp Stick Volume I            Kluunk
+BGM 50110    04             A Poke in the Ear with a Sharp Stick Volume I            LargeGothik
+BGM 50110    05             Cuckooland Ghost in the Machine                          Menacing-G#2
+
+BGM 50111    00
+BGM 50111    01
+BGM 50111    02
+BGM 50111    03             Skinned                                                  67 Nukem 7 (sample 12)
+BGM 50111    04
+BGM 50111    05             A Poke in the Ear with a Sharp Stick Volume I            LargeGothik
+BGM 50111    06             Distorted Reality 2                                      GULLS
+BGM 50111    07
+
+BGM 50112    00
+BGM 50112    01
+BGM 50112    02
+BGM 50112    03
+BGM 50112    04
+BGM 50112    05
+BGM 50112    06             A Poke in the Ear with a Sharp Stick Volume I            GooeySteel
+BGM 50112    07             Alien Guitars                                            CD2, Track 82, sample 1
+
+BGM 50113    00
+BGM 50113    01
+BGM 50113    02
+BGM 50113    03
+BGM 50113    04
+BGM 50113    05
+BGM 50113    06
+BGM 50113    07
+BGM 50113    08
+BGM 50113    09
+BGM 50113    10
+BGM 50113    11
+BGM 50113    12
+BGM 50113    13
+BGM 50113    14
+BGM 50113    15
+
+BGM 50114    00             Distorted Reality 2                                      VAPORCHIME
+BGM 50114    01             Distorted Reality 2                                      DAYBREAK
+BGM 50114    02
+BGM 50114    03             Cuckooland Ghost in the Machine                          Hoovering on Venus-D2
+BGM 50114    04             Ambient Grooves                                          Ambient FX 08-11
+BGM 50114    05             Bizarre Guitar                                           SEDATION
+
+BGM 50115    00             Twisted Reality                                          Image03_s
+BGM 50115    01
+BGM 50115    02
+BGM 50115    03             260dB Drum & Bass Interface                              Atmos 05
+BGM 50115    04             Power Surge                                              CD2, Track 52
+BGM 50115    05
+BGM 50115    06             Cuckooland Ghost in the Machine                          Fairground 2
+
+BGM 50116    00             Cuckooland Ghost in the Machine                          Witch Doctor-D#2
+BGM 50116    01
+BGM 50116    02             Ambient Volume 1                                         Track 35, sample 2
+BGM 50116    03
+
+BGM 50117    00
+BGM 50117    01
+
+BGM 50118    00             Things that Go Bump in the Night                         BASSCHIME
+BGM 50118    01             Ambient Volume 1                                         Track 35, sample 2
+BGM 50118    02             Cuckooland Asylum                                        Track 70, sample 1
+BGM 50118    03             Skinned                                                  Track 02, sample 1
+BGM 50118    04             Bizarre Guitar                                           SHUDD
+
+BGM 50119    00
+BGM 50119    01             Cuckooland Asylum                                        Track 33, sample 7
+BGM 50119    02             Skinned                                                  Track 02, sample 1
+BGM 50119    03
+
+BGM 50120    00             Distorted Reality                                        SCI-FI STI
+BGM 50120    01
+BGM 50120    02             Titanium Rhythms                                         Track 08, sample 3, left channel
+BGM 50120    03             Titanium Rhythms                                         Track 31, sample 1, right channel
+BGM 50120    04             Power Surge                                              CD2, Track 20
+
+BGM 50121    00             Titanium Rhythms                                         Track 14, sample 5
+BGM 50121    01             Titanium Rhythms                                         Track 11, sample 1
+BGM 50121    02             Titanium Rhythms                                         Track 36, sample 6
+
+BGM 50122    00             Cuckooland Ghost in the Machine                          Hoovering on Venus-D2
+BGM 50122    01             Things that Go Bump in the Night                         BASSCHIME
+BGM 50122    02             Titanium Rhythms                                         Track 11, sample 1
+BGM 50122    03             Titanium Rhythms                                         Track 40, sample 8
+BGM 50122    04             A Poke in the Ear with a Sharp Stick Volume II           BONG intro
+
+BGM 50123    00
+BGM 50123    01             260dB Drum & Bass Interface                              Atmos 05
+BGM 50123    02
+BGM 50123    03
+BGM 50123    04
+BGM 50123    05
+BGM 50123    06
+BGM 50123    07             Twisted Reality                                          Image06_s
+
+BGM 50124    00             A Poke in the Ear with a Sharp Stick Volume I            SteelThunder
+BGM 50124    01
+BGM 50124    02
+BGM 50124    03             A Poke in the Ear with a Sharp Stick Volume III          Fire Scan 4
+BGM 50124    04             A Poke in the Ear with a Sharp Stick Volume III          Folt
+BGM 50124    05             A Poke in the Ear with a Sharp Stick Volume III          Herit
+BGM 50124    06             Titanium Rhythms                                         Track 30, sample 5, left channel
+BGM 50124    07             Titanium Rhythms                                         Track 25, sample 6
+
+BGM 50125    00             Titanium Rhythms                                         Track 11, sample 4, left channel
+BGM 50125    01
+BGM 50125    02
+BGM 50125    03 (1)         Titanium Rhythms                                         Track 14, sample 4
+BGM 50125    03 (2)         Titanium Rhythms                                         Track 14, sample 5
+BGM 50125    04             Total Control Action Cutz                                MOAN EL 11
+BGM 50125    05             Cuckooland Asylum                                        Track 01, sample 9
+BGM 50125    06             A Poke in the Ear with a Sharp Stick Volume III          Folt
+BGM 50125    07
+
+BGM 50126    00             Things That Go Bump in the Night                         HCLOUD-5
+
+BGM 50127    00
+BGM 50127    01
+BGM 50127    02
+BGM 50127    03
+BGM 50127    04
+BGM 50127    05
+BGM 50127    06             A Poke in the Ear with a Sharp Stick Volume I            GooeySteel
+BGM 50127    07             Alien Guitars                                            CD2, Track 82, sample 1
+
+BGM 50128    00 (1)         Total Control Action Cutz                                METL SCR06
+BGM 50128    00 (2)         Total Control Action Cutz                                METL SCR07
+BGM 50128    00 (3)         Total Control Action Cutz                                METL SCR08
+BGM 50128    01             Power Surge                                              CD2, Track 52, left/right channel
+BGM 50128    02             Power Surge                                              CD2, Track 52, left/right channel
