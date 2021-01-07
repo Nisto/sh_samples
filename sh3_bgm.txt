@@ -1,0 +1,102 @@
+BGM          Sample ##      Library                                                  Sample
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+sh3_bgm_01   00             XX-Large PADS 2                                          AMB-PD 03
+sh3_bgm_01   01             Alien Artifakts                                          Track 06, sample 1
+sh3_bgm_01   02             SoundScan Vol. 14: Twisted Special FX                    AMBIENT 04
+sh3_bgm_01   03
+sh3_bgm_01   04             Bizarre Guitar                                           VERBONICS
+sh3_bgm_01   05             On the Jazz Tip                                          Track 05, sample 1
+sh3_bgm_01   06             Too Phat 2                                               Track 50, sample 7
+
+sh3_bgm_02   00             Cuckooland vol.1 'unhinged'                              PULSAR 3
+sh3_bgm_02   01             bt Twisted Textures                                      Liquids
+
+sh3_bgm_03   00             Distorted Reality 2                                      VELVET ENO
+sh3_bgm_03   01             Series 8000 - Sci-Fi                                     CD1, Track 14
+sh3_bgm_03   02
+
+sh3_bgm_100  00             Things That Go Bump In The Night                         110-15
+sh3_bgm_100  01             Things That Go Bump In The Night                         120-10
+sh3_bgm_100  02
+sh3_bgm_100  03             Sample Material                                          Track 04, sample 3
+sh3_bgm_100  04             Titanium Rhythms                                         Track 44, sample 5
+sh3_bgm_100  05             Titanium Rhythms                                         Track 36, sample 7
+
+sh3_bgm_101  00             A Poke in the Ear with a Sharp Stick Volume III          3 valve roll 118bpm
+sh3_bgm_101  01             Things That Go Bump In The Night                         CD1, Track 37, sample 1
+sh3_bgm_101  02             A Poke in the Ear with a Sharp Stick Volume III          Tin Whale - 01
+sh3_bgm_101  03             Twisted City                                             Track 37, sample 3
+
+sh3_bgm_102  00             A Poke in the Ear with a Sharp Stick Volume III          3 valve roll 118bpm
+sh3_bgm_102  01             A Poke in the Ear with a Sharp Stick Volume III          3 valve roll 118bpm
+sh3_bgm_102  02             Things That Go Bump In The Night                         110-15
+sh3_bgm_102  03             Things That Go Bump In The Night                         120-7
+sh3_bgm_102  04
+sh3_bgm_102  05
+sh3_bgm_102  06             A Poke in the Ear with a Sharp Stick Volume II           GEARHEAD 130bpm
+sh3_bgm_102  07             Cuckooland vol.2 'ghost in the machine'                  078 Nasal Voices-C
+
+sh3_bgm_103  00             Things That Go Bump In The Night                         160-12
+sh3_bgm_103  01             Things That Go Bump In The Night                         120-10
+sh3_bgm_103  02             Things That Go Bump In The Night                         110-12
+sh3_bgm_103  03
+
+sh3_bgm_104  00             Skinned                                                  Track 01, sample 1
+sh3_bgm_104  01             Skinned                                                  Track 01, sample 6
+sh3_bgm_104  02             Skinned                                                  Track 04, sample 7
+sh3_bgm_104  03
+sh3_bgm_104  04             Alien Guitars                                            CD2, Track 76, sample 2
+
+sh3_bgm_105  00             Things That Go Bump In The Night                         140-11
+sh3_bgm_105  01
+sh3_bgm_105  02             Titanium Rhythms                                         Track 44, sample 10, left channel
+sh3_bgm_105  03
+sh3_bgm_105  04             Distorted Reality                                        SANCTUS
+
+sh3_bgm_106  00 (1/2)       Titanium Rhythms                                         Track 14, sample 4
+sh3_bgm_106  00 (2/2)       Titanium Rhythms                                         Track 14, sample 5
+sh3_bgm_106  01 (1/2)       Titanium Rhythms 2                                       Track 48, sample 5
+sh3_bgm_106  01 (2/2)       Titanium Rhythms 2                                       Track 06, sample 4
+sh3_bgm_106  02             Cuckooland vol.2 'ghost in the machine'                  Earthquake Guitar-D#3
+
+sh3_bgm_107  00             Titanium Rhythms 2                                       Track 25, sample 3
+sh3_bgm_107  01             Cuckooland vol.1 'unhinged'                              LOW HORN
+sh3_bgm_107  02
+sh3_bgm_107  03             Cuckooland vol.2 'ghost in the machine'                  Overwhelming Feeling-D2
+
+sh3_bgm_108  00
+sh3_bgm_108  01             Alien Guitars                                            LODESTONE2
+sh3_bgm_108  02
+
+sh3_bgm_109  00             Things That Go Bump In The Night                         140-6
+sh3_bgm_109  01             Things That Go Bump In The Night                         150-10
+sh3_bgm_109  02             Alien Guitars                                            END GAME1
+sh3_bgm_109  03 (1/3)       Titanium Rhythms 2                                       Track 59, sample 5
+sh3_bgm_109  03 (2/3)       Titanium Rhythms 2                                       Track 59, sample 8
+sh3_bgm_109  03 (3/3)       Titanium Rhythms 2                                       Track 60, sample 2
+sh3_bgm_109  04             Skinned                                                  Track 01, sample 3
+sh3_bgm_109  05             Skinned                                                  Track 03, sample 1
+
+sh3_bgm_110  00
+sh3_bgm_110  01             A Poke in the Ear with a Sharp Stick Volume III          Fire Scan 4
+sh3_bgm_110  02             Alien Guitars                                            WILT THOU
+sh3_bgm_110  03 (1/3)       Titanium Rhythms                                         Track 25, sample 6, right channel
+sh3_bgm_110  03 (2/3)       Titanium Rhythms                                         Track 25, sample 9, right channel
+sh3_bgm_110  03 (3/3)       Titanium Rhythms                                         Track 27, sample 3, left channel
+sh3_bgm_110  04             Titanium Rhythms                                         Track 44, sample 2, right channel
+sh3_bgm_110  05             Titanium Rhythms                                         Track 11, sample 3, left channel
+sh3_bgm_110  06             Titanium Rhythms 2                                       Track 72, sample 4
+
+sh3_bgm_111  00             Titanium Rhythms 2                                       Track 74, sample 10
+sh3_bgm_111  01 (1/3)       Titanium Rhythms 2                                       Track 59, sample 8
+sh3_bgm_111  01 (2/3)       Titanium Rhythms 2                                       Track 64, sample 4
+sh3_bgm_111  01 (3/3)       Titanium Rhythms 2                                       Track 65, sample 1
+sh3_bgm_111  02 (1/3)       Titanium Rhythms                                         Track 60, sample 5, left channel
+sh3_bgm_111  02 (2/3)       Titanium Rhythms                                         Track 60, sample 7, right channel
+sh3_bgm_111  02 (3/3)       Titanium Rhythms                                         Track 61, sample 2, left channel
+sh3_bgm_111  03 (1/3)       Titanium Rhythms 2                                       Track 59, sample 2
+sh3_bgm_111  03 (2/3)       Titanium Rhythms 2                                       Track 59, sample 5
+sh3_bgm_111  03 (3/3)       Titanium Rhythms 2                                       Track 59, sample 8
+sh3_bgm_111  04             Titanium Rhythms                                         Track 44, sample 10, left channel
+sh3_bgm_111  05             Things That Go Bump In The Night                         160-12
+sh3_bgm_111  06             Titanium Rhythms                                         Track 40, sample 8
