@@ -17,7 +17,7 @@ sh3_bgm_03   02             PowerSurge                                          
 
 sh3_bgm_100  00             Things That Go Bump In The Night                         110-15
 sh3_bgm_100  01             Things That Go Bump In The Night                         120-10
-sh3_bgm_100  02
+sh3_bgm_100  02             Ambient Volume 2                                         VERYLOW 3
 sh3_bgm_100  03             Sample Material                                          Track 04, sample 3
 sh3_bgm_100  04             Titanium Rhythms                                         Track 44, sample 5
 sh3_bgm_100  05             Titanium Rhythms                                         Track 36, sample 7
@@ -48,7 +48,7 @@ sh3_bgm_104  03             PowerSurge                                          
 sh3_bgm_104  04             Alien Guitars                                            CD2, Track 76, sample 2
 
 sh3_bgm_105  00             Things That Go Bump In The Night                         140-11
-sh3_bgm_105  01
+sh3_bgm_105  01             SDC Sound Effects Library                                Witchcraft, Body In Mirror
 sh3_bgm_105  02             Titanium Rhythms                                         Track 44, sample 10, left channel
 sh3_bgm_105  03
 sh3_bgm_105  04             Distorted Reality                                        SANCTUS
