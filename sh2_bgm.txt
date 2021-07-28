@@ -2,7 +2,7 @@ Sound ID     Sample ##      Library                                             
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 BGM 50000    00
 BGM 50000    01             Things That Go Bump in the Night                         CD2, Track 35, sample 1
-BGM 50000    02
+BGM 50000    02             260dB The Drum & Bass Interface                          Music FX 424
 BGM 50000    03             Twisted Reality                                          Fear15_s
 
 BGM 50001    00             Skinned                                                  01 Horror Movie Part 1 (sample 3)
@@ -41,7 +41,7 @@ BGM 50004    01             The Mellotron Archives CD-ROM                       
 BGM 50004    02             The Mellotron Archives CD-ROM                            A3GUITAR
 BGM 50004    03             Ruff Cutz                                                Track 55, sample 9
 BGM 50004    04             Cuckooland Unhinged                                      STRINGCHOR
-BGM 50004    05             260dB                                                    Music FX 424
+BGM 50004    05             260dB The Drum & Bass Interface                          Music FX 424
 BGM 50004    06
 BGM 50004    07             Wall of Vinyl 2                                          Track 72 (sample 2)
 
@@ -94,13 +94,14 @@ BGM 50008    13             The Vinyl Frontier                                  
 
 BGM 50009    00             Bizarre Guitar                                           SLEEPCYCL3 (~9.914 - ~11.268)
 BGM 50009    01
-BGM 50009    02
+BGM 50009    02 (1/2)       Too Phat 2                                               Pete's Drum Loops - 103 BPM 04
+BGM 50009    02 (2/2)       Too Phat 2                                               Misc FX 2
 
 BGM 50010    00             Cuckooland Asylum                                        Track 01, sample 9
 BGM 50010    01             A Poke in the Ear with a Sharp Stick Volume II           Low Cycle
 BGM 50010    02             A Poke in the Ear with a Sharp Stick Volume II           Low Cycle
 
-BGM 50011    00
+BGM 50011    00             Bizarre Guitar                                           LAPLAND
 BGM 50011    01
 BGM 50011    02
 BGM 50011    03
@@ -134,7 +135,7 @@ BGM 50013    02
 BGM 50013    03
 BGM 50013    04
 BGM 50013    05
-BGM 50013    06             260dB                                                    Atmos 12
+BGM 50013    06             260dB The Drum & Bass Interface                          Atmos 12
 BGM 50013    07
 BGM 50013    08
 BGM 50013    09
@@ -145,15 +146,20 @@ BGM 50013    13             The Mellotron Archives CD-ROM                       
 BGM 50013    14             The Mellotron Archives CD-ROM                            B2 VIBES
 BGM 50013    15             The Mellotron Archives CD-ROM                            B3 VIBES
 
-BGM 50014    00 (1)         Titanium Rhythms 2                                       Track 74, sample 5
-BGM 50014    00 (2)         Titanium Rhythms 2                                       Track 74, sample 7
-BGM 50014    01
-BGM 50014    02
-BGM 50014    03
-BGM 50014    04 (1)         Total Control Action Cutz                                METL SCR04 (left channel)
-BGM 50014    04 (2)         Total Control Action Cutz                                METL SCR05 (left channel)
-BGM 50014    05 (1)         Total Control Action Cutz                                METL SCR04 (right channel)
-BGM 50014    05 (2)         Total Control Action Cutz                                METL SCR05 (right channel)
+BGM 50014    00 (1/2)       Titanium Rhythms 2                                       Track 74, sample 5
+BGM 50014    00 (2/2)       Titanium Rhythms 2                                       Track 74, sample 7
+BGM 50014    01 (1/3)       Titanium Rhythms                                         Track 25, sample 6 (right channel)                       finetuned by +1/4th of a semitone and played on G#
+BGM 50014    01 (2/3)       Titanium Rhythms                                         Track 25, sample 9 (right channel)                       finetuned by +1/4th of a semitone and played on G#
+BGM 50014    01 (3/3)       Titanium Rhythms                                         Track 27, sample 3 (left channel)                        finetuned by +1/4th of a semitone and played on G#
+BGM 50014    02 (1/4)       Titanium Rhythms                                         Track 25, sample 9 (right channel)                       finetuned by +1/4th of a semitone and played on G#
+BGM 50014    02 (2/4)       Titanium Rhythms                                         Track 27, sample 6 (left channel)                        finetuned by +1/4th of a semitone and played on G#
+BGM 50014    02 (3/4)       Titanium Rhythms                                         Track 28, sample 9                                       finetuned by +1/4th of a semitone and played on G#
+BGM 50014    02 (4/4)       Titanium Rhythms                                         Track 28, sample 10                                      finetuned by +1/4th of a semitone and played on G#
+BGM 50014    03                                                                                                                               possibly GULLS from Distorted Reality 2, partially?
+BGM 50014    04 (1/2)       Total Control Action Cutz                                METL SCR04 (left channel)
+BGM 50014    04 (2/2)       Total Control Action Cutz                                METL SCR05 (left channel)
+BGM 50014    05 (1/2)       Total Control Action Cutz                                METL SCR04 (right channel)
+BGM 50014    05 (2/2)       Total Control Action Cutz                                METL SCR05 (right channel)
 
 BGM 50015    00             Distorted Reality                                        BIG BOOM
 BGM 50015    01
@@ -177,14 +183,17 @@ BGM 50017    02             Distorted Reality 2                                 
 BGM 50017    03
 BGM 50017    04             Vinylistics                                              Track 41 (last sample)                                   unused sample
 
-BGM 50018    00 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
-BGM 50018    00 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50018    00 (1/2)       Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50018    00 (2/2)       Titanium Rhythms                                         Track 30, sample 5 (left channel)
 BGM 50018    01             Titanium Rhythms                                         Track 14, sample 5
-BGM 50018    02 (1)         Titanium Rhythms                                         Track 08, sample 6
+BGM 50018    02 (1/4)       Titanium Rhythms                                         Track 08, sample 3 (right channel)                       played on A#
+BGM 50018    02 (2/4)       Titanium Rhythms                                         Track 08, sample 6                                       played on A#
+BGM 50018    02 (3/4)       Titanium Rhythms                                         Track 11, sample 1 (right channel)                       played on A#
+BGM 50018    02 (4/4)       Titanium Rhythms                                         Track 48, sample 2                                       used for custom beat
 BGM 50018    03             Titanium Rhythms                                         Track 11, sample 1
 BGM 50018    04             Cuckooland Asylum                                        Track 01, sample 9
 BGM 50018    05             Sci-Fi Series 8000                                       CD2, Track 15
-BGM 50018    06             260dB                                                    Analog FX 01
+BGM 50018    06             260dB The Drum & Bass Interface                          Analog FX 01
 
 BGM 50019    00             Distorted Reality                                        SANCTUS
 BGM 50019    01             Distorted Reality                                        SANCTUS
@@ -244,7 +253,7 @@ BGM 50102    03             Ambient Volume 1                                    
 BGM 50102    04             Maximum Impact                                           Track 03, sample 4
 BGM 50102    05             Distorted Reality                                        BIG BOOM
 
-BGM 50103    00
+BGM 50103    00             Junk Percussion                                          Track 16 "The Disc" (~56.07 - ~57.46)
 BGM 50103    01
 BGM 50103    02
 BGM 50103    03             Skinned                                                  01 Horror Movie Part 1 (sample 1)
@@ -283,30 +292,38 @@ BGM 50108    00             Cuckooland Ghost in the Machine                     
 BGM 50108    01             Distorted Reality 2                                      BREAKIN UP
 BGM 50108    02             Methods of Mayhem                                        Track 88 (sample 3)
 BGM 50108    03
-BGM 50108    04 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
-BGM 50108    04 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
-BGM 50108    05 (1)         Titanium Rhythms                                         Track 30, sample 1 (left channel)
-BGM 50108    05 (2)         Titanium Rhythms                                         Track 34, sample 9
+BGM 50108    04 (1/2)       Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50108    04 (2/2)       Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50108    05 (1/2)       Titanium Rhythms                                         Track 30, sample 1 (left channel)
+BGM 50108    05 (2/2)       Titanium Rhythms                                         Track 34, sample 9
 
-BGM 50109    00 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
-BGM 50109    00 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50109    00 (1/2)       Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50109    00 (2/2)       Titanium Rhythms                                         Track 30, sample 5 (left channel)
 BGM 50109    01             Titanium Rhythms                                         Track 14, sample 5
-BGM 50109    02             Titanium Rhythms                                         Track 08, sample 6
+BGM 50109    02 (1/4)       Titanium Rhythms                                         Track 08, sample 3 (right channel)                       played on A#
+BGM 50109    02 (2/4)       Titanium Rhythms                                         Track 08, sample 6                                       played on A#
+BGM 50109    02 (3/4)       Titanium Rhythms                                         Track 11, sample 1 (right channel)                       played on A#
+BGM 50109    02 (4/4)       Titanium Rhythms                                         Track 48, sample 2                                       used for custom beat
 BGM 50109    03             Titanium Rhythms                                         Track 11, sample 1
 BGM 50109    04             Cuckooland Asylum                                        Track 01, sample 9
 BGM 50109    05             Sci-Fi Series 8000                                       CD2, Track 15
-BGM 50109    06             260dB                                                    Analog FX 01
+BGM 50109    06             260dB The Drum & Bass Interface                          Analog FX 01
 
-BGM 50110    00 (1)         Titanium Rhythms                                         Track 31, sample 1 (right channel)
-BGM 50110    00 (2)         Titanium Rhythms                                         Track 30, sample 5 (left channel)
+BGM 50110    00 (1/2)       Titanium Rhythms                                         Track 31, sample 1 (right channel)
+BGM 50110    00 (2/2)       Titanium Rhythms                                         Track 30, sample 5 (left channel)
 BGM 50110    01             Cuckooland Asylum                                        Track 01, sample 9
 BGM 50110    02             A Poke in the Ear with a Sharp Stick Volume I            DeepWell
 BGM 50110    03             A Poke in the Ear with a Sharp Stick Volume I            Kluunk
 BGM 50110    04             A Poke in the Ear with a Sharp Stick Volume I            LargeGothik
 BGM 50110    05             Cuckooland Ghost in the Machine                          Menacing-G#2
 
-BGM 50111    00
-BGM 50111    01
+BGM 50111    00 (1/3)       Titanium Rhythms                                         Track 25, sample 6 (right channel)                       finetuned by +1/4th of a semitone and played on G#
+BGM 50111    00 (2/3)       Titanium Rhythms                                         Track 25, sample 9 (right channel)                       finetuned by +1/4th of a semitone and played on G#
+BGM 50111    00 (3/3)       Titanium Rhythms                                         Track 27, sample 3 (left channel)                        finetuned by +1/4th of a semitone and played on G#
+BGM 50111    01 (1/4)       Titanium Rhythms                                         Track 25, sample 9 (right channel)                       finetuned by +1/4th of a semitone and played on G#
+BGM 50111    01 (2/4)       Titanium Rhythms                                         Track 27, sample 6 (left channel)                        finetuned by +1/4th of a semitone and played on G#
+BGM 50111    01 (3/4)       Titanium Rhythms                                         Track 28, sample 9                                       finetuned by +1/4th of a semitone and played on G#
+BGM 50111    01 (4/4)       Titanium Rhythms                                         Track 28, sample 10                                      finetuned by +1/4th of a semitone and played on G#
 BGM 50111    02
 BGM 50111    03             Skinned                                                  67 Nukem 7 (sample 12)
 BGM 50111    04
@@ -350,9 +367,9 @@ BGM 50114    05             Bizarre Guitar                                      
 BGM 50115    00             Twisted Reality                                          Image03_s
 BGM 50115    01
 BGM 50115    02
-BGM 50115    03             260dB Drum & Bass Interface                              Atmos 05
+BGM 50115    03             260dB The Drum & Bass Interface                          Atmos 05
 BGM 50115    04             Power Surge                                              CD2, Track 52
-BGM 50115    05
+BGM 50115    05             SDC Sound Effects Library                                Witchcraft, Body In Mirror
 BGM 50115    06             Cuckooland Ghost in the Machine                          Fairground 2
 
 BGM 50116    00             Cuckooland Ghost in the Machine                          Witch Doctor-D#2
@@ -390,8 +407,8 @@ BGM 50122    02             Titanium Rhythms                                    
 BGM 50122    03             Titanium Rhythms                                         Track 40, sample 8
 BGM 50122    04             A Poke in the Ear with a Sharp Stick Volume II           BONG intro
 
-BGM 50123    00
-BGM 50123    01             260dB Drum & Bass Interface                              Atmos 05
+BGM 50123    00             Bizarre Guitar                                           LAPLAND
+BGM 50123    01             260dB The Drum & Bass Interface                          Atmos 05
 BGM 50123    02
 BGM 50123    03
 BGM 50123    04
@@ -401,7 +418,7 @@ BGM 50123    07             Twisted Reality                                     
 
 BGM 50124    00             A Poke in the Ear with a Sharp Stick Volume I            SteelThunder
 BGM 50124    01
-BGM 50124    02
+BGM 50124    02             Distorted Reality                                        REQUIEM (right channel, ~6.9 - ~8.1)
 BGM 50124    03             A Poke in the Ear with a Sharp Stick Volume III          Fire Scan 4
 BGM 50124    04             A Poke in the Ear with a Sharp Stick Volume III          Folt
 BGM 50124    05             A Poke in the Ear with a Sharp Stick Volume III          Herit
@@ -409,10 +426,14 @@ BGM 50124    06             Titanium Rhythms                                    
 BGM 50124    07             Titanium Rhythms                                         Track 25, sample 6
 
 BGM 50125    00             Titanium Rhythms                                         Track 11, sample 4, left channel
-BGM 50125    01
-BGM 50125    02
-BGM 50125    03 (1)         Titanium Rhythms                                         Track 14, sample 4
-BGM 50125    03 (2)         Titanium Rhythms                                         Track 14, sample 5
+BGM 50125    01 (1/2)       Titanium Rhythms                                         Track 60, sample 7, right channel
+BGM 50125    01 (2/2)       Titanium Rhythms                                         Track 60, sample 9, right channel
+BGM 50125    02 (1/4)       Titanium Rhythms                                         Track 25, sample 9 (right channel)                       finetuned by +1/4th of a semitone and played on G#
+BGM 50125    02 (2/4)       Titanium Rhythms                                         Track 27, sample 6 (left channel)                        finetuned by +1/4th of a semitone and played on G#
+BGM 50125    02 (3/4)       Titanium Rhythms                                         Track 28, sample 9                                       finetuned by +1/4th of a semitone and played on G#
+BGM 50125    02 (4/4)       Titanium Rhythms                                         Track 28, sample 10                                      finetuned by +1/4th of a semitone and played on G#
+BGM 50125    03 (1/2)       Titanium Rhythms                                         Track 14, sample 4
+BGM 50125    03 (2/2)       Titanium Rhythms                                         Track 14, sample 5
 BGM 50125    04             Total Control Action Cutz                                MOAN EL 11
 BGM 50125    05             Cuckooland Asylum                                        Track 01, sample 9
 BGM 50125    06             A Poke in the Ear with a Sharp Stick Volume III          Folt
@@ -429,8 +450,8 @@ BGM 50127    05
 BGM 50127    06             A Poke in the Ear with a Sharp Stick Volume I            GooeySteel
 BGM 50127    07             Alien Guitars                                            CD2, Track 82, sample 1
 
-BGM 50128    00 (1)         Total Control Action Cutz                                METL SCR06
-BGM 50128    00 (2)         Total Control Action Cutz                                METL SCR07
-BGM 50128    00 (3)         Total Control Action Cutz                                METL SCR08
+BGM 50128    00 (1/3)       Total Control Action Cutz                                METL SCR06
+BGM 50128    00 (2/3)       Total Control Action Cutz                                METL SCR07
+BGM 50128    00 (3/3)       Total Control Action Cutz                                METL SCR08
 BGM 50128    01             Power Surge                                              CD2, Track 52, left/right channel
 BGM 50128    02             Power Surge                                              CD2, Track 52, left/right channel
