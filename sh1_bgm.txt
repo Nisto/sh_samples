@@ -9,16 +9,16 @@ A2_00005    Big Fish Audio: Titanium Rhythms                                Trac
 A2_00006    Big Fish Audio: Titanium Rhythms                                Track 11 (sample 1, left channel)
 B2_00000    Mellotron Archives: Mellotron                                   G2 VIBES
 B2_00001    Mellotron Archives: Mellotron                                   B1 TRON FLUT (about 1.8 seconds in)
-B2_00002    Digidesign: SampleCell Factory Library (Volume 1)               6 STG STEEL GTR B2 LP 1
-B2_00003    Digidesign: SampleCell Factory Library (Volume 1)               NYLON GTR SUS B2
-B2_00004    Digidesign: SampleCell Factory Library (Volume 1)               Yam CF3 D#3 p M LP
-B2_00005    Digidesign: SampleCell Factory Library (Volume 1)               Jx Ink Pad L
-B2_00006    Digidesign: SampleCell Factory Library (Volume 1)               Pianoeffect D0
+B2_00002    Digidesign/Prosonus: SampleCell CD-ROM                          6 Stg Steel Gtr B2 LP
+B2_00003    Digidesign/Prosonus: SampleCell CD-ROM                          Nylon Gtr Sus B2
+B2_00004    Digidesign/Prosonus: SampleCell CD-ROM                          CF3 D#3P M LOOP
+B2_00005    Digidesign/Prosonus: SampleCell CD-ROM                          Jx Ink Pad L
+B2_00006    Digidesign/Prosonus: SampleCell CD-ROM                          Pianoeffect D0
 B_00000
 B_00001
 B_00002
 B_00003
-B_00004     Rarefaction: A Poke in the Ear with a Sharp Stick Volume III    AMB MACH (?)
+B_00004     Rarefaction: A Poke in the Ear with a Sharp Stick Volume III    AMB MACH
 B_00005     Sounds Good: Methods of Mayhem                                  Track 55 (sample 6)
 B_00006     Sounds Good: Methods of Mayhem                                  Track 45 (sample 7)
 B_00007     Rarefaction: A Poke in the Ear with a Sharp Stick Volume II     Deep MIDI c1
@@ -90,7 +90,7 @@ J2_00001    Zero-G: Ambient Volume 2                                        LOW 
 J2_00002    Masterbits: Peter Siedlaczek's Orchestra-Library                STR A0 FF (~1.29 - ~2.30)
 J2_00003    Big Fish Audio: Titanium Rhythms                                Track 61 (sample 4, left channel)
 J2_00004    Big Fish Audio: Titanium Rhythms                                Track 04 (sample 3, left channel)
-J2_00005    Zero-G: Ambient Volume 2                                        METALDRONE 3 / Track 35 (sample 3) (?)
+J2_00005    Zero-G: Ambient Volume 2                                        METALDRONE 3 / Track 35 (sample 3) (~8.9 - ~12.8)
 J_00000     Zero-G: Ambient Volume 2                                        UNDERSEA1
 J_00001     Zero-G: Ambient Volume 2                                        2001 C
 J_00002     Big Fish Audio: Titanium Rhythms                                Track 08 (sample 3, left channel)
@@ -107,7 +107,7 @@ K_00000     Zero-G: Ambient Volume 2                                        MYST
 K_00001     Zero-G: Ambient Volume 2                                        MONOLITH
 K_00002     Zero-G: Ambient Volume 2                                        2001 C
 L_00000     Zero-G: Ambient Volume 2                                        METALDRONE 3
-L_00001
+L_00001     Digidesign/Prosonus: SampleCell CD-ROM                          Chamber Orch Strng F#3
 L_00002
 L_00003     Zero-G: Ambient Volume 2                                        BOOM
 M_00000     Zero-G: Ambient Volume 2                                        METALDRONE 2
@@ -154,7 +154,7 @@ UFO_00002
 V_00000
 V_00001
 V_00002     Masterbits: Peter Siedlaczek's Orchestra-Library                STR A0 FF (~1.29 - ~2.30)
-V_00003
+V_00003     Digidesign/Prosonus: SampleCell CD-ROM                          Chamber Orch Strng F#3
 W2_00000    Zero-G: Ambient Volume 2                                        DRONEMID
 W2_00001
 W2_00002    Zero-G: Ambient Volume 2                                        MYST GLASS
