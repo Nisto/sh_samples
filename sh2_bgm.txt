@@ -17,7 +17,7 @@ BGM 50001    08             A Poke in the Ear with a Sharp Stick Volume II      
 BGM 50001    09             A Poke in the Ear with a Sharp Stick Volume III          Herit
 BGM 50001    10
 BGM 50001    11             Titanium Rhythms                                         Track 40, sample 7
-BGM 50001    12
+BGM 50001    12             Distorted Reality                                        ANCIENTS
 
 BGM 50002    00             A Poke in the Ear with a Sharp Stick Volume II           Blown Low
 BGM 50002    01             A Poke in the Ear with a Sharp Stick Volume II           Blown Low
@@ -57,7 +57,7 @@ BGM 50005    08             A Poke in the Ear with a Sharp Stick Volume II      
 BGM 50005    09             A Poke in the Ear with a Sharp Stick Volume III          Herit
 BGM 50005    10
 BGM 50005    11             Titanium Rhythms                                         Track 40, sample 7
-BGM 50005    12
+BGM 50005    12             Distorted Reality                                        ANCIENTS
 
 BGM 50006    00             Distorted Reality                                        BIG BOOM
 BGM 50006    01             POD                                                      Destabilized Elements 1
@@ -75,7 +75,7 @@ BGM 50007    08             A Poke in the Ear with a Sharp Stick Volume II      
 BGM 50007    09             A Poke in the Ear with a Sharp Stick Volume III          Herit
 BGM 50007    10
 BGM 50007    11             Titanium Rhythms                                         Track 40, sample 7
-BGM 50007    12
+BGM 50007    12             Distorted Reality                                        ANCIENTS
 
 BGM 50008    00
 BGM 50008    01
@@ -262,8 +262,8 @@ BGM 50103    05             Cuckooland Asylum                                   
 
 BGM 50104    00
 BGM 50104    01             A Poke in the Ear with a Sharp Stick Volume I            Kettlex Loop
-BGM 50104    02             Ghost in the Machine                                     Stigmata-D3
-BGM 50104    03             Ghost in the Machine                                     118 Zammo-F#
+BGM 50104    02             Cuckooland Ghost in the Machine                          Stigmata-D3
+BGM 50104    03             Cuckooland Ghost in the Machine                          118 Zammo-F#
 BGM 50104    04             Methods of Mayhem                                        Track 55 (sample 6)
 BGM 50104    05             Fields of Motion                                         LOOP 4
 
@@ -386,7 +386,7 @@ BGM 50118    02             Cuckooland Asylum                                   
 BGM 50118    03             Skinned                                                  Track 02, sample 1
 BGM 50118    04             Bizarre Guitar                                           SHUDD
 
-BGM 50119    00
+BGM 50119    00             Things that Go Bump in the Night                         Detwine-2
 BGM 50119    01             Cuckooland Asylum                                        Track 33, sample 7
 BGM 50119    02             Skinned                                                  Track 02, sample 1
 BGM 50119    03
