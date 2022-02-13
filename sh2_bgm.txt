@@ -350,7 +350,7 @@ BGM 50113    06
 BGM 50113    07
 BGM 50113    08
 BGM 50113    09
-BGM 50113    10
+BGM 50113    10             Distorted Reality 2 (CDDA)                               Track 24, sample 2 ("Gurgle") (~2.9/~12.4)
 BGM 50113    11
 BGM 50113    12
 BGM 50113    13             Larger Than Life                                         CD4, Track 58
