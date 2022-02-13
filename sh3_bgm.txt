@@ -39,7 +39,7 @@ sh3_bgm_102  07             Cuckooland vol.2 'ghost in the machine'             
 sh3_bgm_103  00             Things That Go Bump In The Night                         160-12
 sh3_bgm_103  01             Things That Go Bump In The Night                         120-10
 sh3_bgm_103  02             Things That Go Bump In The Night                         110-12
-sh3_bgm_103  03
+sh3_bgm_103  03             Symphony of Voices                                       BC ALLELUJ (~2.9 - ~3.7; downmixed to mono)
 
 sh3_bgm_104  00             Skinned                                                  Track 01, sample 1
 sh3_bgm_104  01             Skinned                                                  Track 01, sample 6
