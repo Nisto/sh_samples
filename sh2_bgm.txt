@@ -89,7 +89,7 @@ BGM 50008    08             The Mellotron Archives CD-ROM                       
 BGM 50008    09
 BGM 50008    10
 BGM 50008    11
-BGM 50008    12
+BGM 50008    12             Symphony of Voices                                       BC 4THUP05 (~0.592 - ~1.098; downmixed to mono; crossfaded?)
 BGM 50008    13             The Vinyl Frontier                                       Track 09
 
 BGM 50009    00             Bizarre Guitar                                           SLEEPCYCL3 (~9.914 - ~11.268)
@@ -162,7 +162,7 @@ BGM 50014    05 (1/2)       Total Control Action Cutz                           
 BGM 50014    05 (2/2)       Total Control Action Cutz                                METL SCR05 (right channel)
 
 BGM 50015    00             Distorted Reality                                        BIG BOOM
-BGM 50015    01
+BGM 50015    01             A Poke in the Ear with a Sharp Stick Volume II           Radio Symmetry (~2.4 - ~3.7)
 BGM 50015    02             Skinned                                                  01 Horror Movie Part 1 (sample 1)
 BGM 50015    03
 BGM 50015    04             Skinned                                                  01 Horror Movie Part 1 (sample 6)
@@ -240,7 +240,7 @@ BGM 50100    06             Skinned                                             
 
 BGM 50101    00             Titanium Rhythms                                         Track 11, sample 6 (right channel)
 BGM 50101    01             Titanium Rhythms                                         Track 25, sample 4
-BGM 50101    02
+BGM 50101    02             Distorted Reality (CDDA)                                 Track 45 "Bad Guy Piano Swirler"
 BGM 50101    03             A Poke in the Ear with a Sharp Stick Volume I            wing 4
 BGM 50101    04             Ambient Volume 2                                         BOWCYMBAL 1
 BGM 50101    05
@@ -255,7 +255,7 @@ BGM 50102    05             Distorted Reality                                   
 
 BGM 50103    00             Junk Percussion                                          Track 16 "The Disc" (~56.07 - ~57.46)
 BGM 50103    01
-BGM 50103    02
+BGM 50103    02             A Poke in the Ear with a Sharp Stick Volume II           Radio Symmetry (~2.4 - ~3.7)
 BGM 50103    03             Skinned                                                  01 Horror Movie Part 1 (sample 1)
 BGM 50103    04
 BGM 50103    05             Cuckooland Asylum                                        Track 62, sample 3
@@ -324,12 +324,12 @@ BGM 50111    01 (1/4)       Titanium Rhythms                                    
 BGM 50111    01 (2/4)       Titanium Rhythms                                         Track 27, sample 6 (left channel)                        finetuned by +1/4th of a semitone and played on G#
 BGM 50111    01 (3/4)       Titanium Rhythms                                         Track 28, sample 9                                       finetuned by +1/4th of a semitone and played on G#
 BGM 50111    01 (4/4)       Titanium Rhythms                                         Track 28, sample 10                                      finetuned by +1/4th of a semitone and played on G#
-BGM 50111    02
+BGM 50111    02             Larger Than Life                                         CD4, Track 51 (~30.7 - 31.8, right channel)
 BGM 50111    03             Skinned                                                  67 Nukem 7 (sample 12)
-BGM 50111    04
+BGM 50111    04             Animal Trax                                              CD AT-04, Track 22, sample 1
 BGM 50111    05             A Poke in the Ear with a Sharp Stick Volume I            LargeGothik
 BGM 50111    06             Distorted Reality 2                                      GULLS
-BGM 50111    07
+BGM 50111    07             A Poke in the Ear with a Sharp Stick Volume I            Aim Hare (~1.78 - ~3.21, downmixed to mono)
 
 BGM 50112    00
 BGM 50112    01
@@ -353,8 +353,8 @@ BGM 50113    09
 BGM 50113    10
 BGM 50113    11
 BGM 50113    12
-BGM 50113    13
-BGM 50113    14
+BGM 50113    13             Larger Than Life                                         CD4, Track 58
+BGM 50113    14             Larger Than Life                                         CD4, Track 58
 BGM 50113    15
 
 BGM 50114    00             Distorted Reality 2                                      VAPORCHIME
@@ -369,7 +369,7 @@ BGM 50115    01
 BGM 50115    02
 BGM 50115    03             260dB The Drum & Bass Interface                          Atmos 05
 BGM 50115    04             Power Surge                                              CD2, Track 52
-BGM 50115    05             SDC Sound Effects Library                                Witchcraft, Body In Mirror
+BGM 50115    05             Larger Than Life                                         CD4, Track 22, sample 1 ("Deep Reverberant Splash")
 BGM 50115    06             Cuckooland Ghost in the Machine                          Fairground 2
 
 BGM 50116    00             Cuckooland Ghost in the Machine                          Witch Doctor-D#2
